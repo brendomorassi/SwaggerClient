@@ -1,0 +1,12 @@
+{
+    "name": "brendomorassi/swagger-client",
+    "description": "RestFull servics",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Brendo Morassi",
+            "email": "brendomorassi@gmail.com"
+        }
+    ],
+    "require": {}
+}
